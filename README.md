@@ -11,6 +11,6 @@ To reproduce my submission without retraining, do the following steps:
 1. Download the trained model weight mentioned above
 2. Download the csv file for testing and submission of the competition data
 3. Change the path of the csv file for testing and submission in inference.ipynb
-4. Represent the environment by installing requirements.txt with `pip install requirements.txt`
+4. Represent the environment by installing requirements.txt with `pip install -r requirements.txt`
 5. Run inference.ipynb
 6. Submit the output csv file to the competition mentioned above
