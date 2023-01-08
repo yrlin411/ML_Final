@@ -9,8 +9,8 @@ The purpose of the project is to join a real-time Kaggle competition, this parti
 ### Reproducing Submission
 To reproduce my submission without retraining, do the following steps:
 1. Download the trained model weight mentioned above
-2. Download the csv file for testing and submission of the competition data
-3. Change the path of the csv file for testing and submission in inference.ipynb
-4. Represent the environment by installing requirements.txt with `pip install -r requirements.txt`
-5. Run inference.ipynb
+2. Download the csv file for testing and submission from the competition data
+3. Change the path of the csv file for testing and submission in `109550069_Final_inference.ipynb`
+4. Represent the environment by installing `requirements.txt` with `pip install -r requirements.txt`
+5. Run `109550069_Final_inference.ipynb`
 6. Submit the output csv file to the competition mentioned above
